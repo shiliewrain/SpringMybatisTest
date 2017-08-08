@@ -7,8 +7,8 @@ https://shiliewrain.github.io/2017/03/08/mybatis-practise1/
 
 https://shiliewrain.github.io/2017/03/09/mybatis-practise2/
     
-https://shiliewrain.github.io/2017/03/09/mybatis-practise3/
+https://shiliewrain.github.io/2017/03/10/mybatis-practise3/
     
-https://shiliewrain.github.io/2017/03/09/mybatis-practise4/
+https://shiliewrain.github.io/2017/03/15/mybatis-practise4/
     
-https://shiliewrain.github.io/2017/03/09/mybatis-practise5/
+https://shiliewrain.github.io/2017/03/21/mybatis-practise5/
